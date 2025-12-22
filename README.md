@@ -1,2 +1,2 @@
 # curso python (mundo2)
-continuação do curso python
+A continuação do meus exercícios de curso python
