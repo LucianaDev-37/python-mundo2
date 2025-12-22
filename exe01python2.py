@@ -1,4 +1,4 @@
-casa= str(input('Qual o valor da casa que voçê quer comprar? R$' ))
+casa= str(input('Qual o valor da casa que você quer comprar? R$' ))
 salario= str(input('Qual o seu salário mensal? R$'))
 anos= int(input('Em quantos anos você quer pagar a casa? '))
 
